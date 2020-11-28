@@ -6,7 +6,7 @@
 
 📫 I’m currently experimenting with some of the prominent technologies and tools in `web and app development`.
 
-🌱 Learning `the art of co-existence`. 
+🌱 I'm also learning `the art of co-existence`. 
 
 👯 I’m looking to collaborate with all like-minded people with a keen desire to `learn`.
 
