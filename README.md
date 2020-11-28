@@ -1,16 +1,18 @@
-### ✨
 
-<!--
-**Nikcodes10/Nikcodes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I am Nikhil George Mathew
 
-Here are some ideas to get you started:
+## My Vision:
+### Building stuff that can make an `actual` difference to peoples lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 I’m currently experimenting with some of the prominent technologies and tools in web and app development
+
+🌱 I’m currently learning the art of co-existence 
+
+👯 I’m looking to collaborate with like-mined with a keen desire to learn.
+
+💬 Ask me about Angular and I shall not disappoint! :')
+
+👀 You can connect with me [here](https://in.linkedin.com/in/nikhil-george-mathew-a566271ba)
+
+### Awww: you read my intro!
+- 😌 Have a great [time](https://www.youtube.com/watch?v=RBumgq5yVrA&ab_channel=Passenger)!
