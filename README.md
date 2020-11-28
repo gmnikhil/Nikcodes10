@@ -12,7 +12,7 @@
 
 💬 Ask me about `Angular` and `I shall not disappoint!` :')
 
-👀 You can `connect` with me [here](https://in.linkedin.com/in/nikhil-george-mathew-a566271ba)
+👀 You can `connect` with me [here](https://in.linkedin.com/in/nikhil-george-mathew-a566271ba)!
 
-### Awww: you read my intro!
+### Awww: you read my intro... 😯
 - 😌 Have a great [time](https://www.youtube.com/watch?v=RBumgq5yVrA&ab_channel=Passenger)!
