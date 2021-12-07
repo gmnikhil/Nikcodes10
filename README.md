@@ -6,7 +6,7 @@
 
 📫 I’m currently experimenting with some of the prominent technologies and tools in `web and app development`.
 
-🌱 I'm also learning `the art of co-existence`. 
+🌱 I love `project management` and am always up for a challenge. 
 
 👯 I’m looking to collaborate with all like-minded people with a keen desire to `learn`.
 
